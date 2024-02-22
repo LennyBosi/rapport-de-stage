@@ -173,6 +173,10 @@ footer span {
 
 
 @media screen and (max-width: 740px){
+
+      .topbar{
+        position: static;
+    }
     
     .container{
         padding: 0 20px;
