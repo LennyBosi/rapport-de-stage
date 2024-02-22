@@ -29,7 +29,7 @@ body, html{
 .topbar nav{
     display: flex;
     justify-content: center;
-    
+    flex-wrap: wrap;
 }
 
 .topbar nav a{
